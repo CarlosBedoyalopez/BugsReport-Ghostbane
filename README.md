@@ -21,6 +21,7 @@ on free version for Steam, Ghostbane is a multiplayer horror game, allowing 1 to
 - Ricardo Alvarez
 - Santiago Franco
 - Carlos Bedoya
+- Katherin angulo lemus
 
 
 ## How to watch the bugs
