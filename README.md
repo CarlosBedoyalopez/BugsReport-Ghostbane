@@ -2,11 +2,11 @@
 # Test Ghostbane 
 
 
-Hi all, we test the videogame ghostbane.
+Hi everyone, we tested the videogame ghostbane.
 
 ## Game theme: 
 
-in its free version for Steam, Ghostbane is a multiplayer horror game, allowing 1 to 4 players to detect paranormal activity, by collecting paranormal evidence and performing rituals. A detailed evaluation follows. 
+on free version for Steam, Ghostbane is a multiplayer horror game, allowing 1 to 4 players to detect paranormal activity, by collecting paranormal evidence and performing rituals. A detailed evaluation follows. 
 
 
 ### Link del juego
