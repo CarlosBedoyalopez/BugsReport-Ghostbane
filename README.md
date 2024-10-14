@@ -17,7 +17,7 @@ on free version for Steam, Ghostbane is a multiplayer horror game, allowing 1 to
 - Yennifer Arce
 - Julian Perez
 - Leidy Tacuma
-- lina Renteria 
+- Lina Renteria 
 - Ricardo Alvarez
 - Santiago Franco
 - Carlos Bedoya
