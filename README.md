@@ -27,7 +27,6 @@ on free version for Steam, Ghostbane is a multiplayer horror game, allowing 1 to
 ## How to watch the bugs
 
 1. Download the file "bugs reporting" on the main branch
-2. watch the video on the main branch
 
 ## Develop Company 
  pibitgames@gmail.com
